@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an experienced 👨‍💻software engineer specializing in Full-Stack development with a background in 🤖System Engineering and 🕹️DevOps.
+I am an experienced 👨‍💻 software engineer specializing in Full-Stack development with a background in 🤖 System Engineering and 🕹️ DevOps.
 
 - 🔭 I’m currently working on Golang, Gin, React and Graphql side projects
 - 🌱 Learning Golang and deployment processes for side projects (Containized & Productionization)
