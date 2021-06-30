@@ -2,7 +2,7 @@
 
 I am an experienced 👨‍💻 software engineer specializing in Full-Stack development with a background in 🤖 System Engineering and 🕹️ DevOps.
 
-- 🔭 I’m currently working on Golang, Gin, React and Graphql side projects
+- 🔭 I’m currently working on Golang, Gin, React and GraphQL side projects
 - 🌱 Learning Golang and deployment processes for side projects (Containerized & Productionization)
 - 🤔 Planning to migrate side projects to [serverless architecture](https://serverless-stack.com/)
 
