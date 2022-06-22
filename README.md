@@ -8,6 +8,12 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 
 <br>
 
+![Rithy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithyhuot&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/rithyhuot/rithyhuot/blob/output/github-contribution-grid-snake.svg)
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rithyhuot/)
@@ -17,6 +23,7 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 <br>
 
 ## Expertise
+
 <div>
 <img align="justify" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="justify" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -51,4 +58,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
