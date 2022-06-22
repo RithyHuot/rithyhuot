@@ -9,11 +9,11 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 <br>
 <div align="center">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithyhuot&show_icons=true&theme=dracula&count_private=true" alt="rithyhuot" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithyhuot&show_icons=true&theme=github_dark&count_private=true" alt="rithyhuot" />
   </p>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact&theme=dracula" alt="rithyhuot"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact&theme=github_dark" alt="rithyhuot"/>
   </p>
   <br>
 
