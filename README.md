@@ -10,7 +10,7 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 
 ![Rithy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithyhuot&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/rithyhuot/rithyhuot/blob/output/github-contribution-grid-snake.svg)
 
